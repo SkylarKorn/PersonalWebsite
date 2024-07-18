@@ -1,0 +1,17 @@
+.navbar {
+    background-color: black;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 5vh;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255) !important;
+}
+
+.nav-link:hover {
+    color: rgb(200, 200, 200) !important;
+}
